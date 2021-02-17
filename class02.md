@@ -9,6 +9,8 @@
 
 
 *What's the difference between ``` PUT ``` and ``` PATCH ```*?
+ 
+ 
  The difference between put and patch is that ``` PUT ``` method uses the URI and it changes the original version of the value but ``` PATCH ``` method supplies a set of instructions to modify the value.
 
  Tools that allow us to mock API's
