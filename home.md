@@ -21,6 +21,19 @@
 
 - [**class 10**](https://seidomo.github.io/401-reading-notes/class10)
 
+- [**class 11**](https://seidomo.github.io/401-reading-notes/class11)
+
+- [**class 12**](https://seidomo.github.io/401-reading-notes/class12)
+
+- [**class 13**](https://seidomo.github.io/401-reading-notes/class13)
+
+- [**class 14**](https://seidomo.github.io/401-reading-notes/class14)
+
+- [**class 15**](https://seidomo.github.io/401-reading-notes/class15)
+
+- [**class 16**](https://seidomo.github.io/401-reading-notes/class16)
+
+
 
 
 
