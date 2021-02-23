@@ -39,7 +39,11 @@ Its a design pattern that restricts the instantiation of a class to one "single"
 CRUD                          REST
 
 Create   -------------->      PUT
+
 Create   -------------->      POST
+
 Read     -------------->      GET
+
 Update   -------------->      PUT
+
 Delete   -------------->      DELETE
