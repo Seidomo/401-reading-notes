@@ -42,6 +42,8 @@
 
 ``` Observer Pattern ```
 
+The Observer Pattern is a popular pattern used across all sorts of JavaScript applications where the instance maintains a collection of observers and notifies them  when changes to the state occurs.
+
 
 ``` listner ```
 
@@ -62,6 +64,7 @@
 
 - An Event Loop continuously checks the call stack to see if there's any function that needs to run.
 
+
 ``` Event Queue ```
 
 - An event queue is a repository where events from an application are held prior to being processed by a receiving program or system
@@ -76,6 +79,7 @@
 
 - Emmit sends a message to trigger another event.
 
+
 ``` Subscribe ```
 
 - Is a method waiting for for publisher to happen.
@@ -86,5 +90,8 @@
 - A database is an organized collection of data, generally stored and accessed electronically from a computer system
 
 
+ 
+ 
+ 
  [**HOME**](https://seidomo.github.io/reading_notes/home)
 
