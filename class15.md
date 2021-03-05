@@ -22,7 +22,7 @@
 ### TERMS:
 
 
-- ``` root ``` 
+ ``` root ``` 
 
 - The root is the node at the beginning of the tree.
 
@@ -56,10 +56,11 @@
 
 ``` K ``` 
 
+
 - Is a number that specifies the maximum number of children any node may have in a k-ary tree.
 
 
-- There are two catagories of traversing of a tree:
+###  *There are two catagories of traversing of a tree:*
 
 
 - ``` depth first ```
@@ -67,7 +68,7 @@
 - Depth first traversal is where we prioritize going through the depth (height) of the tree first.
 
 
-- depth first traversal methods:
+- *depth first traversal methods:*
 
 - *pre-order*
 
@@ -93,7 +94,7 @@
 
 ### Binary search trees
 
-- A Binary Search Tree is a type of tree that does have some structure attached to it. In a BST, nodes are organized in a manner where all values that are smaller than the root are placed to the left, and all values that are larger than the root are placed to the right.
+- A Binary Search Tree is a type of tree that does have some structure attached to it. In a binary search tree, nodes are organized in a manner where all values that are smaller than the root are placed to the left, and all values that are larger than the root are placed to the right.
 
 
 
