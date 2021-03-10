@@ -42,17 +42,33 @@
 
 ``` server instances ```
 
+- Its a virtual machine in amazon web services running in  operating sistems.
+
 
 
 ``` containers  ```
 
+- Containers provide a standard way to package your application's code, configurations, and dependencies into a single object. Containers share an operating system installed on the server and run as resource-isolated processes, ensuring quick, reliable, and consistent deployments, regardless of environment.
+
 
 ``` cloud services ```
+
+- offers a broad set of global cloud-based products including compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security and enterprise applications. These services help organizations move faster, lower IT costs, and scale.
 
 
 ``` cloud architecture ```
 
+- Cloud computing architecture refers to the components and subcomponents required for cloud computing. These components typically consist of a front end platform, back end platforms, a cloud-based delivery, and a network. Combined, these components make up cloud computing architecture
+
 
 ``` AWS ```
 
+- Amazon Web Services
+
 ``` EC2/Beanstalk vs Heroku ```
+
+- Similar cloud based platform.
+
+
+
+[**HOME**](https://seidomo.github.io/reading_notes/home)
