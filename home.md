@@ -39,17 +39,17 @@
 
 - [**class 19**](https://seidomo.github.io/401-reading-notes/class19)
 
-- [**class 20**](https://seidomo.github.io/401-reading-notes/class20)
+- [**class 26**](https://seidomo.github.io/401-reading-notes/class26)
 
-- [**class 21**](https://seidomo.github.io/401-reading-notes/class21)
+- [**class 27**](https://seidomo.github.io/401-reading-notes/class27)
 
-- [**class 22**](https://seidomo.github.io/401-reading-notes/class22)
+- [**class 28**](https://seidomo.github.io/401-reading-notes/class28)
 
-- [**class 23**](https://seidomo.github.io/401-reading-notes/class23)
+- [**class 29**](https://seidomo.github.io/401-reading-notes/class29)
 
-- [**class 24**](https://seidomo.github.io/401-reading-notes/class24)
+- [**class 30**](https://seidomo.github.io/401-reading-notes/class30)
 
-- [**class 25**](https://seidomo.github.io/401-reading-notes/class25)
+- [**class 31**](https://seidomo.github.io/401-reading-notes/class31)
 
 
 
