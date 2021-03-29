@@ -51,6 +51,24 @@
 
 - [**class 31**](https://seidomo.github.io/401-reading-notes/class31)
 
+- [**class 32**](https://seidomo.github.io/401-reading-notes/class32)
+
+- [**class 33**](https://seidomo.github.io/401-reading-notes/class33)
+
+- [**class 34**](https://seidomo.github.io/401-reading-notes/class34)
+
+- [**class 35**](https://seidomo.github.io/401-reading-notes/class35)
+
+- [**class 36**](https://seidomo.github.io/401-reading-notes/class36)
+
+- [**class 37**](https://seidomo.github.io/401-reading-notes/class37)
+
+- [**class 38**](https://seidomo.github.io/401-reading-notes/class38)
+
+- [**class 39**](https://seidomo.github.io/401-reading-notes/class39)
+
+- [**class 40**](https://seidomo.github.io/401-reading-notes/class40)
+
 
 
 
