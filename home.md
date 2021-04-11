@@ -69,6 +69,8 @@
 
 - [**class 41**](https://seidomo.github.io/401-reading-notes/class41)
 
+- [**Ethics**](https://seidomo.github.io/401-reading-notes/ethics)
+
 
 
 
