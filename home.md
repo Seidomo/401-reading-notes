@@ -67,7 +67,7 @@
 
 - [**class 39**](https://seidomo.github.io/401-reading-notes/class39)
 
-- [**class 40**](https://seidomo.github.io/401-reading-notes/class40)
+- [**class 41**](https://seidomo.github.io/401-reading-notes/class41)
 
 
 
